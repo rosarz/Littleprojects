@@ -1,0 +1,3 @@
+﻿  Win.cpp
+C:\Users\kanal\source\repos\b38af555-gr25-repo\Projekt\Ruletka v2.0\Ruletka v2.0\Win.cpp(529): warning C4715: "Win::isWin”: niewszystkie ścieżki kodu zwracają wartość
+  Ruletka v2.0.vcxproj -> C:\Users\kanal\source\repos\b38af555-gr25-repo\Projekt\Ruletka v2.0\x64\Debug\Ruletka v2.0.exe
