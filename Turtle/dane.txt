@@ -1,0 +1,8 @@
+start
+przod(3)
+lewo(2)
+prawo(4)
+lewo(2)
+tyl(6)
+zolw
+koniec
